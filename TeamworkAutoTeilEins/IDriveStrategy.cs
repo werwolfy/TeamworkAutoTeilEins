@@ -1,6 +1,6 @@
 ﻿namespace TeamworkAutoTeilEins;
 
-public class Class1
+public interface IDriveStrategy
 {
-
+    
 }

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b83c6d0a-8211-4851-ba16-ed9fd2c1fa49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/ICarState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/IDriveStrategy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/States/Driving.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/States/Maintence.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/States/Parked.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/Strategy/Eco.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/Strategy/Normal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/Strategy/Sport.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamworkAutoTeilEins/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/AVehicle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamworkAutoTeilEins/obj/Debug/net8.0/TeamworkAutoTeilEins.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/obj/Debug/net8.0/TeamworkAutoTeilEins.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamworkAutoTeilEins/obj/Debug/net8.0/TeamworkAutoTeilEins.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/obj/Debug/net8.0/TeamworkAutoTeilEins.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;werwolfy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/werwolfy/TeamworkAutoTeilEins&quot;,
+    &quot;accountId&quot;: &quot;e82e8baa-0354-411d-9a99-4d780bfc3aac&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mVutb8BndHZvS0D495hqLsLzjE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b83c6d0a-8211-4851-ba16-ed9fd2c1fa49" name="Changes" comment="" />
+      <created>1727174280178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727174280178</updated>
+      <workItem from="1727174281241" duration="2766000" />
+      <workItem from="1727178875328" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
