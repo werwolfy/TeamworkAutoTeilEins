@@ -2,23 +2,29 @@
 
 public class Driving : ICarState
 {
+    private AVehicle vehicle;
+
+    public Driving(AVehicle vehicle)
+    {
+        this.vehicle = vehicle;
+    }
     public void Drive()
     {
-        throw new NotImplementedException();
+        vehicle.CurentState = this;
     }
 
     public void Parking()
-    {
-        throw new NotImplementedException();
+    {        
+        vehicle.CurentState = this;
     }
 
     public void Crash()
     {
-        throw new NotImplementedException();
+        vehicle.CurentState = this;
     }
 
     public void Repair()
     {
-        throw new NotImplementedException();
+        vehicle.CurentState = this;
     }
 }

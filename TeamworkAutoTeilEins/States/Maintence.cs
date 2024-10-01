@@ -2,23 +2,28 @@
 
 public class Maintence : ICarState
 {
+    private AVehicle vehicle;
+    public Maintence(AVehicle vehicle)
+    {
+        this.vehicle = vehicle;
+    }
     public void Drive()
     {
-        throw new NotImplementedException();
+        vehicle.CurentState = this;   
     }
 
     public void Parking()
     {
-        throw new NotImplementedException();
+        vehicle.CurentState = this;
     }
 
     public void Crash()
     {
-        throw new NotImplementedException();
+        vehicle.CurentState = this;
     }
 
     public void Repair()
     {
-        throw new NotImplementedException();
+        vehicle.CurentState = this;
     }
 }
