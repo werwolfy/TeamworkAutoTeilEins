@@ -2,10 +2,10 @@
 
 public class AVehicle
 {
-    public string Model { get; set; }
+    public string? Model { get; set; }
     public int Speed { get; set; }
-    public ICarState CurentState { get; set; }
-    public IDriveStrategy DriveMode { get; set; }
+    public ICarState? CurentState { get; set; }
+    public IDriveStrategy? DriveMode { get; set; }
 
     public int Accelerate()
     {
