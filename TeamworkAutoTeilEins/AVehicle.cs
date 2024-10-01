@@ -4,7 +4,7 @@ public abstract class AVehicle
 {
     public string? Model { get; set; }
     public int Speed { get; set; }
-    public ICarState? CurentState { get; set; }
+    public ICarState? CurrentState { get; set; }
     public IDriveStrategy? DriveMode { get; set; }
 
     public abstract void GetCarAccelerate();
@@ -17,7 +17,7 @@ public abstract class AVehicle
 
     public void ChangeState(ICarState state)
     {
-        CurentState = state;
+        CurrentState = state;
     }
     
     

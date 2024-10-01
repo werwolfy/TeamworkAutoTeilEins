@@ -1,29 +1,29 @@
 ﻿namespace TeamworkAutoTeilEins.States;
 
-public class Maintence : ICarState
+public class Maintenance : ICarState
 {
     private AVehicle vehicle;
-    public Maintence(AVehicle vehicle)
+    public Maintenance(AVehicle vehicle)
     {
         this.vehicle = vehicle;
     }
     public void Drive()
     {
-        vehicle.CurentState = this;   
+        vehicle.CurrentState = this;   
     }
 
     public void Parking()
     {
-        vehicle.CurentState = this;
+        vehicle.CurrentState = this;
     }
 
     public void Crash()
     {
-        vehicle.CurentState = this;
+        vehicle.CurrentState = this;
     }
 
     public void Repair()
     {
-        vehicle.CurentState = this;
+        vehicle.CurrentState = this;
     }
 }

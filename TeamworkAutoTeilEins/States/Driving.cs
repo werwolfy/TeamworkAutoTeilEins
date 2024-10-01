@@ -10,21 +10,21 @@ public class Driving : ICarState
     }
     public void Drive()
     {
-        vehicle.CurentState = this;
+        vehicle.CurrentState = this;
     }
 
     public void Parking()
     {        
-        vehicle.CurentState = this;
+        vehicle.CurrentState = this;
     }
 
     public void Crash()
     {
-        vehicle.CurentState = this;
+        vehicle.CurrentState = this;
     }
 
     public void Repair()
     {
-        vehicle.CurentState = this;
+        vehicle.CurrentState = this;
     }
 }
