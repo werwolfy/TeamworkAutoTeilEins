@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b83c6d0a-8211-4851-ba16-ed9fd2c1fa49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/Builder/VehicleBuilder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/VehicleManagementSystem.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TeamworkAutoTeilEins/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TeamworkAutoTeilEins/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeamworkAutoTeilEins.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeamworkAutoTeilEins/obj/Debug/net8.0/TeamworkAutoTeilEins.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/obj/Debug/net8.0/TeamworkAutoTeilEins.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeamworkAutoTeilEins/obj/Debug/net8.0/TeamworkAutoTeilEins.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/obj/Debug/net8.0/TeamworkAutoTeilEins.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamworkAutoTeilEins/Builder/VehicleBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TeamworkAutoTeilEins/Builder/VehicleBuilder.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Second-Task" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +34,9 @@
   }
 }</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,7 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Second-Task",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,7 +70,7 @@
       <workItem from="1727178875328" duration="104000" />
       <workItem from="1727775504547" duration="4947000" />
       <workItem from="1728058505769" duration="1677000" />
-      <workItem from="1728119282621" duration="949000" />
+      <workItem from="1728119282621" duration="1844000" />
     </task>
     <task id="LOCAL-00001" summary="[TASK] Fixed spelling mistake">
       <option name="closed" value="true" />
@@ -81,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727779917131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[TASK] Added Unit Tests">
+      <option name="closed" value="true" />
+      <created>1728120438254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728120438254</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[TASK] Started BuilderPattern">
+      <option name="closed" value="true" />
+      <created>1728120505390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728120505390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +119,8 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="[TASK] Fixed spelling mistake" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TASK] Fixed spelling mistake" />
+    <MESSAGE value="[TASK] Added Unit Tests" />
+    <MESSAGE value="[TASK] Started BuilderPattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TASK] Started BuilderPattern" />
   </component>
 </project>
