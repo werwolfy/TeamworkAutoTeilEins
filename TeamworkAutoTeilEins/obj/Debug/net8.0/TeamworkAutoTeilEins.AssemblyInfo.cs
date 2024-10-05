@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeamworkAutoTeilEins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fa035af27a779351be8acc8efc16eeffc867008")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c559e711b2adee8340701e4fb66a7d90d4455e51")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeamworkAutoTeilEins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeamworkAutoTeilEins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
